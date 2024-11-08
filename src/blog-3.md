@@ -4,7 +4,7 @@
 
 `Answer: `
 
-TypeScript improves JavaScript by adding static types, which makes the code more reliable. A key feature of TypeScript is type guards, which ensure safety when using variables that can have different types. 
+In TypeScript, type guards play an essential role in making the codebase more reliable, and developer-friendly.It improves JavaScript by adding static types, which makes the code more reliable. A key feature of TypeScript is type guards, which ensure safety when using variables that can have different types. 
 
 It is important when working with variables that can have multiple types (union types).
 
